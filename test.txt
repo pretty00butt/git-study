@@ -1,1 +1,2 @@
 nope, no merged
+added new line
